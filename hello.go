@@ -1,3 +1,5 @@
+//Tutorial example for Go
+
 package main
 
 import (
