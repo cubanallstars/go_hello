@@ -1,4 +1,5 @@
 //Tutorial example for Go
+//By Chris Stiles
 
 package main
 
